@@ -1,6 +1,11 @@
 #include <iostream>
 
 using namespace std;
+// This is the multiplication function
+double multiply(double a, double b) {
+    return a * b;
+}
+// HI this is a change kdkd
 
 int main() {
     double num1, num2;
