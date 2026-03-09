@@ -6,6 +6,10 @@ double multiply(double a, double b) {
     return a * b;
 }
 // HI this is a change kdkd
+double division (double a, double b){
+    // this is a division function
+    // lorem
+}
 
 int main() {
     double num1, num2;
